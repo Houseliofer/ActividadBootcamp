@@ -20,12 +20,14 @@ $color-footer: #f4f8fe;
   &:hover {
     background-color: white;
     color: $color-main;
+
     border: solid 1px $color-main;
   }
 
   &-s {
     @extend .btn-main;
     @include btn-sm-modify();
+
   }
 }
 
@@ -33,10 +35,12 @@ $color-footer: #f4f8fe;
   @include btn-base();
   color: black;
   background-color: transparent;
+
   border: none;
 
   &:hover {
     color: #888;
+    
   }
 
   &-s {
