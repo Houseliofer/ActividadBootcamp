@@ -18,7 +18,7 @@
 .btn-sec, .btn-sec-s {
   padding: 0.25rem 1.5rem;
   border-radius: 0.25rem;
-  color: black;
+  color: white;
   background-color: transparent;
   border: none;
 }
@@ -40,7 +40,7 @@
   margin-right: 2rem;
 }
 .main-menu li a {
-  color: #000;
+  color: #fff;
   text-decoration: none;
 }
 .main-menu li a:hover {
